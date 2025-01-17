@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Project History.md",
+                "file": "Resources/알고리즘/투 포인터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project History"
+              "title": "투 포인터"
             }
           }
         ]
@@ -165,8 +165,10 @@
   "active": "80a14d269ae4027d",
   "lastOpenFiles": [
     "Archive/TIL History.md",
-    "Projects/SSAFY/2학기_공통프로젝트/XRSize (exercise).md",
+    "Resources/알고리즘/투 포인터.md",
+    "Resources/알고리즘",
     "Archive/Project History.md",
+    "Projects/SSAFY/2학기_공통프로젝트/XRSize (exercise).md",
     "Jira/Jira (지라).md",
     "Resources/도커와 쿠버네티스/쿠버네티스.md",
     "Jira/Untitled",
